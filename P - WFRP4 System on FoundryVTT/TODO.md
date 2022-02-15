@@ -1,0 +1,30 @@
+-   [ ] Commence par bien lire toute la page [Knowledge Base](https://foundryvtt.com/kb/) , en particulier la partie en bas.
+-   [ ] Et ensuite, il y a ce tutoriel en anglais qui est assez bien fait pour un départ quasi "from scratch" : [Tutorial Gettting started](https://foundryvtt.wiki/en/development/guides/SD-tutorial/SD01-Getting-started)
+    -   [x] 1 - Getting started
+    -   [x] Prettier
+    -   [x] TailwindCSS
+    -   [x] 2 - Stuff to be aware of
+    -   [x] 3 - system.json
+    -   [x] 4 - template.json
+    -   [x] Setup Cypress + pre-commit
+    -   [x] 5 - Creating your main JS file
+    -  [x] 6 - Extending the actor Class
+    -  [ ] 7 Extending the ActorSheet class
+	-  [ ] refacto code du template pour les caractéristiques
+	-  [ ] ajout des title pour CC etc, mettre dans `config.mjs` les clé-valeurs.
+    -   [ ] SD08 Creating-HTML-templates-for-your-actor-sheets
+    -   [ ] SD09 Extending-the-Item-class
+    -   [ ] SD10 Extending-the-ItemSheet-class
+    -   [ ] SD11.1 Creating-rollable-buttons-with-event-listeners
+    -   [ ] SD11.3 Grouping-items-by-type
+    -   [ ] SD11.4 Separating-item-types-into-tabs
+    -   [ ] SD13 Localization
+    -   [ ] SD16 Adding macrobar support to your Items
+    -   [ ] [Handlebars docs](https://handlebarsjs.com/guide/#what-is-handlebars)
+-   [ ] TypeScript !
+-   [ ] Ensuite, les vidéos de Pillule Rouge pour Nanochrome sont bien également et surtout en français : [Episode 1](https://www.youtube.com/watch?v=ZXbhsP19E1E)
+-   [ ] Les vidéos de Cédric Hauteville sont aussi à voir. Elles sont en anglais mais très compréhensibles. Mais c'est mieux d'avoir joué un peu avec un système avant de les regarder. C'est par ici : [La playlist Youtube (en)](https://www.youtube.com/playlist?list=PLFV9z59nkHDccUbRXVt623UdloPTclIrz)
+-   [ ] Et bien sûr, le wiki anglais reste une source précieuse d'informations : [Wiki Développeurs (en)](https://foundryvtt.wiki/en/development/home) Et en particulier : [Learning API](https://foundryvtt.wiki/en/development/guides/API-Learning-API)
+-   [ ] Bonne pratiques git : [](https://foundryvtt.wiki/fr/developpement/guides/git)[https://foundryvtt.wiki/fr/developpement/guides/git](https://foundryvtt.wiki/fr/developpement/guides/git)
+-   [ ] [Contribuer Patreon FoundryVTT](https://www.patreon.com/foundryvtt), penser à le lier au Discord et au compte sur [FoundryVTT.com](http://FoundryVTT.com)
+-   [ ] Créer document : configuration recommandée en public pour les réglages
