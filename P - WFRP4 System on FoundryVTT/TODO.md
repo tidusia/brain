@@ -20,6 +20,7 @@
     -   [ ] SD11.4 Separating-item-types-into-tabs
     -   [ ] SD13 Localization
     -   [ ] SD16 Adding macrobar support to your Items
+    -   [ ] Clean du code du boilerplate maintenant inutile
     -   [ ] [Handlebars docs](https://handlebarsjs.com/guide/#what-is-handlebars)
 -   [ ] TypeScript !
 -   [ ] Ensuite, les vidéos de Pillule Rouge pour Nanochrome sont bien également et surtout en français : [Episode 1](https://www.youtube.com/watch?v=ZXbhsP19E1E)
