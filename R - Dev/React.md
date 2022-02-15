@@ -1,0 +1,2 @@
+- 🎓 [Epic React](https://epicreact.dev) : Probably the most complete full course on React. Takes a lot of time though.
+- [useHooks(🐠)](https://usehooks.com/) : Easy to understand React Hook recipes by ui.dev

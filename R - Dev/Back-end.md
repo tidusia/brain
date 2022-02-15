@@ -1,0 +1,2 @@
+- [Appwrite](https://appwrite.io/) : Self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.
+- [Sample APIs](https://sampleapis.com/): A simple, no fuss, no mess, no auth playground for learning RESTful or GraphQL APIs.

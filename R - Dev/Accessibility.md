@@ -1,0 +1,1 @@
+- [AcceDe Web](https://www.accede-web.com/) : checklists on accessibility grouped by 4 categories : design, HTML/CSS, dev, content

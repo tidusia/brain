@@ -1,0 +1,1 @@
+- [Excalidraw](https://excalidraw.com/) : Virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
