@@ -12,20 +12,7 @@
             "file": "P - WFRP4 System on FoundryVTT/TODO.md",
             "mode": "source"
           }
-        },
-        "group": "abf0c4e53aacb51a"
-      },
-      {
-        "id": "1eaf13b4d835033a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "P - WFRP4 System on FoundryVTT/TODO.md",
-            "mode": "preview"
-          }
-        },
-        "group": "abf0c4e53aacb51a"
+        }
       }
     ],
     "direction": "vertical"
