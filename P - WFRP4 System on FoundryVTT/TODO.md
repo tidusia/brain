@@ -9,9 +9,9 @@
     -   [x] Setup Cypress + pre-commit
     -   [x] 5 - Creating your main JS file
     -  [x] 6 - Extending the actor Class
-    -  [ ] 7 Extending the ActorSheet class
-	-  [ ] refacto code du template pour les caractéristiques
-	-  [ ] ajout des title pour CC etc, mettre dans `config.mjs` les clé-valeurs.
+    -  [x] 7 Extending the ActorSheet class
+	-  [x] refacto code du template pour les caractéristiques
+	-  [x] ajout des title pour CC etc, mettre dans `config.mjs` les clé-valeurs.
     -   [ ] SD08 Creating-HTML-templates-for-your-actor-sheets
     -   [ ] SD09 Extending-the-Item-class
     -   [ ] SD10 Extending-the-ItemSheet-class
