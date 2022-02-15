@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "519a03753fec23f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0063a6ade65405c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "P - Second brain.md",
+            "mode": "source"
+          }
+        },
+        "group": "1f68790a879d385f"
+      },
+      {
+        "id": "a37a36a72a362b30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "P - Second brain.md",
+            "mode": "preview"
+          }
+        },
+        "group": "1f68790a879d385f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e7284908231574e",
+    "type": "split",
+    "children": [
+      {
+        "id": "da8c7fb05758b29e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2acbc598adf8f951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64ea520f986d444f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbd323c2833e5003",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc0829c37fa5a9b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7ea43664b478473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "P - Second brain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0063a6ade65405c4",
+  "lastOpenFiles": [
+    "P - Second brain.md",
+    "README.md"
+  ]
+}
