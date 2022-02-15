@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "P - Second brain.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "P - Second brain.md",
+            "file": "README.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P - Second brain.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
   },
   "active": "0063a6ade65405c4",
   "lastOpenFiles": [
-    "P - Second brain.md",
-    "README.md"
+    "README.md",
+    "P - Second brain.md"
   ]
 }
