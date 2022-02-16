@@ -1,0 +1,6 @@
+- [Analytics](https://analytics.google.com/analytics/web/)
+- [Search Console](https://search.google.com/search-console)
+- [Submit new URL](https://developers.google.com/search/docs/advanced/crawling/ask-google-to-recrawl)
+- [Developers Blog](https://developers.google.com/search/blog?hl=fr)
+- [My Business](https://business.google.com/locations)
+- [Opérateurs de recherche](https://support.google.com/websearch/answer/2466433?hl=fr&ref_topic=3081620)

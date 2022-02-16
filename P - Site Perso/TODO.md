@@ -1,1 +1,1 @@
-- [ ] Ajouter [[Formations]] sur la page compétences
+- [ ] Ajouter [[Formations]] et les formations dans [[Business actif]] sur la page compétences

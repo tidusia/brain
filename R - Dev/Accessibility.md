@@ -1,1 +1,5 @@
 - [AcceDe Web](https://www.accede-web.com/) : checklists on accessibility grouped by 4 categories : design, HTML/CSS, dev, content
+- [Article de La Fabrique du Net](https://www.lafabriquedunet.fr/creation-site-vitrine/articles/guide-accessibilite-site-web/) : Le guide complet sur l’accessibilité web, l’art de rendre un site web utilisable par vraiment tout le monde
+- [Référentiels AccessiWeb](https://www.accessiweb.org/index.php/referentiels.html)
+- [Dois-je utiliser ?](https://doisjeutiliser.fr/) : contre-exemples illustrés
+- [Contrast checker](https://contrastchecker.com/)

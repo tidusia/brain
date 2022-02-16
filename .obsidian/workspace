@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Bizdev/Plateformes freelances.md",
+            "file": "R - Dev/UI.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Bizdev/Plateformes freelances.md",
+                "file": "R - Dev/UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "61bcd69e757367d8",
   "lastOpenFiles": [
+    "R - Dev/UI.md",
+    "R - Dev/Accessibility.md",
+    "R - FoundryVTT/Tools & assets.md",
+    "A - Bizdev/Tools.md",
+    "R - Dev/Google.md",
+    "P - Site Perso/TODO.md",
+    "P - Second brain/TODO.md",
     "A - Bizdev/Plateformes freelances.md",
     "A - Bizdev/Business actif.md",
-    "R - Productivité/Formations.md",
-    "A - Bizdev/Slacks & Discods.md",
-    "A - Bizdev/LinkedIn.md",
-    "P - Second brain/TODO.md",
-    "P - Site Perso/TODO.md",
-    "R - Dev/Others.md",
-    "P - WFRP4 System on FoundryVTT/TODO.md",
-    "R - FoundryVTT/TODO.md"
+    "R - Productivité/Formations.md"
   ]
 }
