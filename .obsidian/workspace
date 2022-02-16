@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "A - Bizdev/Business actif.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "A - Bizdev/Business actif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "266d4f9b7cd53d2f",
   "lastOpenFiles": [
+    "A - Bizdev/Business actif.md",
     "README.md",
     "P - Second brain/TODO.md",
     "R - Productivité/Formations.md",
@@ -96,7 +97,6 @@
     "R - Dev/Intégration email.md",
     "R - Dev/UI.md",
     "R - Dev/Accessibility.md",
-    "R - FoundryVTT/Tools & assets.md",
-    "A - Bizdev/Tools.md"
+    "R - FoundryVTT/Tools & assets.md"
   ]
 }

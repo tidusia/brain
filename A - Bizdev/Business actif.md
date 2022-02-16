@@ -1,5 +1,16 @@
 # Méthode active : Idées pour décrocher un nouveau contrat rapidement
 
+## Rappel de la règle d'or
+Pour faire du bizdev, il faut avant tout donner de soi. Give first. Partager des choses, des ressources, des savoirs, aider les gens sans rien attendre en retour, parler de ce qu'on fait, etc.
+
+Déjà, ça améliore votre karma, mais en plus ça augmente votre [surface de chance](https://www.swyx.io/create-luck/#luck-surface-area). 
+
+- [ ] TODO: créer une page pour les actions possibles en tant que dev pour suivre cette règle d'or
+
+Mais il peut arriver que ce soit vraiment la loose. Dans ce cas il faut se mettre en mode "actif". Voici donc quelques pistes : 
+
+## Actions priorisés
+
 - Contacter une des personnes qui m’avait proposé une mission précédemment (mail, linkedIn) listé dans le tableau des leads
 - Contacter une personne ressource
 - Améliorer le profil [[LinkedIn]]
