@@ -1,0 +1,1 @@
+- [ ] créer une page pour les actions possibles en tant que dev pour suivre la règle d'or duBizdev
