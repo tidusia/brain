@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "P - Second brain/TODO.md",
+            "file": "A - Bizdev/Business actif.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P - Second brain/TODO.md",
+                "file": "A - Bizdev/Business actif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "61bcd69e757367d8",
   "lastOpenFiles": [
+    "A - Bizdev/Business actif.md",
+    "A - Bizdev/Slacks & Discods.md",
+    "A - Bizdev/LinkedIn.md",
+    "A - Bizdev/Plateformes freelances.md",
     "P - Second brain/TODO.md",
     "P - Site Perso/TODO.md",
     "R - Productivité/Formations.md",
     "R - Dev/Others.md",
     "P - WFRP4 System on FoundryVTT/TODO.md",
-    "R - FoundryVTT/TODO.md",
-    "R - FoundryVTT/Résumé du knowledge base.md",
-    "R - Dev/Libs.md",
-    "R - Dev/Accessibility.md",
-    "R - Dev/Audit.md"
+    "R - FoundryVTT/TODO.md"
   ]
 }
