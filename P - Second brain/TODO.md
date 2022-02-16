@@ -5,3 +5,4 @@
 - [ ] Sync avec app mobile
 - [ ] Revoir en détails l'organisation [PARA](https://fortelabs.co/blog/para/)
 - [ ] Voir si j'ai besoin de l'option [Sync](https://obsidian.md/pricing) pour utilisation sur iPhone
+- [ ] Passer en revue la doc de Obsidian

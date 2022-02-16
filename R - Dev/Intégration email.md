@@ -1,0 +1,3 @@
+- [ ] [Bulletproof email buttons](https://buttons.cm/)
+- [ ] [Maizzle](https://maizzle.com/) : Framework for Rapid Email Prototyping
+- [ ] [Can I email](https://www.caniemail.com/)

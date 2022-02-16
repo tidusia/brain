@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "61bcd69e757367d8",
+        "id": "266d4f9b7cd53d2f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Dev/UI.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Dev/UI.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "61bcd69e757367d8",
+  "active": "266d4f9b7cd53d2f",
   "lastOpenFiles": [
+    "README.md",
+    "P - Second brain/TODO.md",
+    "R - Productivité/Formations.md",
+    "R - Dev/Icons.md",
+    "R - Dev/Stocks.md",
+    "R - Dev/Intégration email.md",
     "R - Dev/UI.md",
     "R - Dev/Accessibility.md",
     "R - FoundryVTT/Tools & assets.md",
-    "A - Bizdev/Tools.md",
-    "R - Dev/Google.md",
-    "P - Site Perso/TODO.md",
-    "P - Second brain/TODO.md",
-    "A - Bizdev/Plateformes freelances.md",
-    "A - Bizdev/Business actif.md",
-    "R - Productivité/Formations.md"
+    "A - Bizdev/Tools.md"
   ]
 }
