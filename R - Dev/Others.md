@@ -1,2 +1,3 @@
 - [Monorepo.tools](https://monorepo.tools) : Everything you need to know about monorepos, and the tools to build them.
 - [OSS.love](https://oss.love/) : Open source,  Open hearts
+- [Unicode characters](https://www.fileformat.info/info/unicode/char/a.htm) -> utile en react dans les chaines de caractères : "Non-breaking space\u00a0?"

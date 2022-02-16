@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Bizdev/Business actif.md",
+            "file": "R - Dev/Others.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Bizdev/Business actif.md",
+                "file": "R - Dev/Others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "266d4f9b7cd53d2f",
   "lastOpenFiles": [
+    "R - Dev/Others.md",
     "A - Bizdev/Business actif.md",
     "A - Bizdev/TODO.md",
     "A - Bizdev/Tools.md",
@@ -96,7 +97,6 @@
     "R - Productivité/Formations.md",
     "R - Dev/Icons.md",
     "R - Dev/Stocks.md",
-    "R - Dev/Intégration email.md",
-    "R - Dev/UI.md"
+    "R - Dev/Intégration email.md"
   ]
 }
