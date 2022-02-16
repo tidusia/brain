@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Dev/Others.md",
+            "file": "P - Second brain/TODO.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Dev/Others.md",
+                "file": "P - Second brain/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "61bcd69e757367d8",
   "lastOpenFiles": [
+    "P - Second brain/TODO.md",
+    "P - Site Perso/TODO.md",
+    "R - Productivité/Formations.md",
     "R - Dev/Others.md",
     "P - WFRP4 System on FoundryVTT/TODO.md",
     "R - FoundryVTT/TODO.md",
     "R - FoundryVTT/Résumé du knowledge base.md",
     "R - Dev/Libs.md",
     "R - Dev/Accessibility.md",
-    "R - Dev/Audit.md",
-    "R - Dev/Back-end.md",
-    "R - Dev/CSS.md",
-    "R - Dev/Drawing.md"
+    "R - Dev/Audit.md"
   ]
 }
