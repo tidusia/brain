@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Bizdev/Business actif.md",
+            "file": "A - Bizdev/Plateformes freelances.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Bizdev/Business actif.md",
+                "file": "A - Bizdev/Plateformes freelances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "61bcd69e757367d8",
   "lastOpenFiles": [
+    "A - Bizdev/Plateformes freelances.md",
     "A - Bizdev/Business actif.md",
     "R - Productivité/Formations.md",
     "A - Bizdev/Slacks & Discods.md",
     "A - Bizdev/LinkedIn.md",
-    "A - Bizdev/Plateformes freelances.md",
     "P - Second brain/TODO.md",
     "P - Site Perso/TODO.md",
     "R - Dev/Others.md",
