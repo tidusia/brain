@@ -7,13 +7,14 @@
 - Contacter les boites pour lesquelles j’aimerais travailler
 - Configurer un Tweetdeck
 - Newsletter des projets, nouvelles pour les collègues/clients
-- Comment vous faire connaître en tant que freelance ? ([](https://freelanceboost.fr/comment-vous-faire-connaitre-en-tant-que-designer-freelance/)[https://freelanceboost.fr/comment-vous-faire-connaitre-en-tant-que-designer-freelance/](https://freelanceboost.fr/comment-vous-faire-connaitre-en-tant-que-designer-freelance/))
-- How to Market Yourself: without Being a Celebrity ([](https://www.swyx.io/writing/marketing-yourself/?utm_campaign=sebastien_lorber_newsletter&utm_medium=email&utm_source=Revue%20newsletter)[https://www.swyx.io/writing/marketing-yourself/](https://www.swyx.io/writing/marketing-yourself/))
-- Article : Personne ne lit vos articles ? Changez cela : 3 piliers d’un bon article de blog
-- Article : How to Market Yourself
+- [Comment vous faire connaître en tant que freelance ?](https://freelanceboost.fr/comment-vous-faire-connaitre-en-tant-que-designer-freelance/)
+- [How to Market Yourself: without Being a Celebrity](https://www.swyx.io/writing/marketing-yourself/)
 - Article : From Zero to 300k Monthly Readers: The Impact of Consistency with Robin Wieruch
 - Article : [https://kentcdodds.com/blog/hi-thanks-for-reaching-out-to-me](https://kentcdodds.com/blog/hi-thanks-for-reaching-out-to-me)
 - Passer en revue une formation Business et mettre en application
+	- [Marketing Mania](https://marketingmania.schoolmaker.co/products)
+	- [Vivre sereinement de son business](https://sites.google.com/view/vivresereinementdesonbusiness/accueil)
+	- [Freelance CAAP Succes](https://sites.google.com/view/freelance-caap-succes)
 - Passer en revue les livre et ebooks business et mettre en pratique
 - Acheter une nouvelle formation business
     -   [https://nathanbarry.com/authority/](https://nathanbarry.com/authority/)
