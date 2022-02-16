@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "P - WFRP4 System on FoundryVTT/TODO.md",
+            "file": "R - Dev/Others.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "P - WFRP4 System on FoundryVTT/TODO.md",
+                "file": "R - Dev/Others.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "61bcd69e757367d8",
   "lastOpenFiles": [
+    "R - Dev/Others.md",
     "P - WFRP4 System on FoundryVTT/TODO.md",
     "R - FoundryVTT/TODO.md",
     "R - FoundryVTT/Résumé du knowledge base.md",
@@ -96,7 +97,6 @@
     "R - Dev/Audit.md",
     "R - Dev/Back-end.md",
     "R - Dev/CSS.md",
-    "R - Dev/Drawing.md",
-    "R - Dev/Podcasting.md"
+    "R - Dev/Drawing.md"
   ]
 }
