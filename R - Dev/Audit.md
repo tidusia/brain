@@ -1,1 +1,2 @@
-- [Opquast](https://www.opquast.com/) : Global web quality checklists, possibility to pass a certification. 
+- [Opquast](https://www.opquast.com/) : Global web quality checklists, possibility to pass a certification.
+- [Raygun - Definitive guide to Core Web Vitals](https://raygun.com/learn/the-developers-guide-to-core-web-vitals)
