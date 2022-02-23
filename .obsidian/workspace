@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A - Lifestyle/Leçons de vie.md",
+            "file": "R - Dev/SaaS.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A - Lifestyle/Leçons de vie.md",
+                "file": "R - Dev/SaaS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "266d4f9b7cd53d2f",
   "lastOpenFiles": [
+    "R - Dev/SaaS.md",
     "A - Lifestyle/Leçons de vie.md",
     "R - Dev/Audit.md",
     "R - Dev/Others.md",
@@ -96,7 +97,6 @@
     "A - Bizdev/Tools.md",
     "README.md",
     "P - Second brain/TODO.md",
-    "R - Productivité/Formations.md",
-    "R - Dev/Icons.md"
+    "R - Productivité/Formations.md"
   ]
 }

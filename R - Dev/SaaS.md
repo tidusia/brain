@@ -9,3 +9,4 @@
 - [BugHerd](https://bugherd.com/) : Tool to collect, organise and act on website feedback. It's bug tracking software that's like sticky-notes on a webpage.
 - [Hotjar](https://www.hotjar.com/) : Understand how users behave on your site, what they need, and how they feel, fast.
 - [Unlayer](https://unlayer.com/) : Use drag & drop to create emails in minutes. No coding or design skills needed.
+- [Courier](https://www.courier.com/) : Developer infrastructure for product notifications
