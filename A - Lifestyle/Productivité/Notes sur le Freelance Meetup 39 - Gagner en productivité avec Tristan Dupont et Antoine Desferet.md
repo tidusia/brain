@@ -13,5 +13,8 @@
 
 
 ## Antoine (vision freelance)
-- [ ] anime un podcast sur la productivité, à checker ! 
+- [ ] [anime un podcast sur la productivité](https://4212.fr/), à checker ! 
+- Pas de recherche de productivité comme une fin en soi, mais plutôt pour dégager du temps pour d'autre choses
+- Passer moins de temps sur son activité tout en gagnant autant voire plus
+- Template Notion 50 astuces de productivité
 
