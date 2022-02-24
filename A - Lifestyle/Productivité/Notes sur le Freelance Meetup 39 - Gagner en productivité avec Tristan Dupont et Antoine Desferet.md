@@ -5,7 +5,11 @@
 - présente le Qonto Way, modèle d'apprentissage
 - plus une entreprise grandit, moins on passe de temps à créer de la valeur (dev -> meetings, attente de validations, travail inutile, travail en attente, process lourds).
 - Big company disease
-- 
+- "un problème c'est une opportunité pour apprendre"
+- [ONE PIECE FLOW versus BATCH PRODUCTION](https://www.youtube.com/watch?v=JoLHKSE8sfU)
+- L'équipe produit ne commence à travailler uniquement quand l'équipe tech est disponible
+- Problème : Cause racine -> contre-mesure -> validation -> standard et formation
+- [Medium de Qonto](https://medium.com/qonto-way)
 
 
 ## Antoine (vision freelance)
