@@ -1,5 +1,8 @@
 # Thibaud's second brain
 
+⚠️ Attention : repo archivé, mon deuxième cerveau est désormais [sur Notion](https://thibaud-duthoit.notion.site/Thibaud-s-second-brain-5333746539ca4b4d8e6c7e8857245a2c) : [https://thibaud-duthoit.notion.site/Thibaud-s-second-brain-5333746539ca4b4d8e6c7e8857245a2c](https://thibaud-duthoit.notion.site/Thibaud-s-second-brain-5333746539ca4b4d8e6c7e8857245a2c).
+
+
 Ceci est mon deuxième cerveau, en tout cas la partie publique, dispo sur [Github](https://github.com/tidusia/brain).
 
 Largement inspiré par le [deuxième cerveau](https://github.com/sw-yx/brain/blob/master/README.md) de [Swyx's](https://www.swyx.io/tiago-forte-second-brain).

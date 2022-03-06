@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R - Dev/Others.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R - Dev/Others.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "266d4f9b7cd53d2f",
   "lastOpenFiles": [
+    "README.md",
+    "P - Second brain/TODO.md",
     "R - Dev/Others.md",
     "R - Dev/Accessibility.md",
     "A - Lifestyle/Productivité/Notes sur le Freelance Meetup 39 - Gagner en productivité avec Tristan Dupont et Antoine Desferet.md",
@@ -95,8 +97,6 @@
     "A - Lifestyle/Leçons de vie.md",
     "R - Dev/SaaS.md",
     "R - Dev/Audit.md",
-    "A - Bizdev/Business actif.md",
-    "A - Bizdev/TODO.md",
-    "A - Bizdev/Tools.md"
+    "A - Bizdev/Business actif.md"
   ]
 }
